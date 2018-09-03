@@ -1,0 +1,8 @@
+body,
+html {
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  background: #4b21ff;
+  height: 100vh;
+  margin: 0;
+}
